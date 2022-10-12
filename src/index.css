@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+  padding: 0 120px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --greenColor: #46a358;
+}
